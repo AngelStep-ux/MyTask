@@ -5,9 +5,9 @@ from pprint import pprint
 from tqdm import tqdm
 import datetime
 
-TOKEN_VK = 'vk1.a.wuIFdCOb34rGomlBZrHvE-G6MNXUKn71OAgOS9BELvUL1Fn9ZHyak2dkzELMVT2YL-kSwF3mkct2NRgTRpyIA7SqZt1-jvTEtiM1Tk53uE0RWZEt36OzUD8bHl-vbYK3qyvpDlUNXI8MX-WLGvYuBipN20c9rFKvtaI9R2TLQrQlbXBfy-1fQxYlZ8Lq64IC'
+TOKEN_VK = '...'
 USER_ID = 62268022
-YA_DISK_TOKEN = 'y0_AgAAAABY1Fk-AADLWwAAAAEXDCbSAADOxcXfUeJCIJIm0j_9qPEJxJ4v_w'
+YA_DISK_TOKEN = '...'
 NUM_PHOTOS = 5
 DOWNLOAD_FOLDER = 'VK_photos'
 RESULT_JSON = 'uploaded_photos.json'
